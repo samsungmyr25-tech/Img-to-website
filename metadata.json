@@ -1,0 +1,6 @@
+{
+  "name": "Image to Website",
+  "description": "Convert screenshots, UI mockups, and sketches directly into clean, interactive websites using Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
